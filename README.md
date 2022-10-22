@@ -1,6 +1,5 @@
 - Hi, I’m Al Simkin
 - I’m interested in Delphi, Lazarus, Object Pascal, Free Pascal programming
-- I’m looking to collaborate on nothing
 - How to reach me: simkin64@gmail.com
 
 <!---
